@@ -8,4 +8,6 @@ Enfin, un pipeline a été constitués en ajoutant
 - un modèle d'embedding (https://huggingface.co/BAAI/bge-small-en-v1.5) en tant que modèle de RAG (retrieval agmented generation) afin d'aider le modèle à sélectionner les bonnes données pour répondre
 - des techniques de prompt-engineering pour orienter la réponse du modèle
 
-Les données utilisées sont trouvable dans le dossier "data", et les codes ayant permis de constituer ces différentes partie sont trouvables dans le dossier "src".
+Les données utilisées sont trouvable dans le dossier "data", et les codes ayant permis de constituer ces différentes partie sont trouvables dans le dossier "src". 
+
+Ces codes sources sont utilisables directement en les ouvrant dans google colab. C'est notament le fichier PipelineWithRAG permet de setup et d'utiliser le modèle que nous avons entraîné.
