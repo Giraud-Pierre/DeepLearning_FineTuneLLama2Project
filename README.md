@@ -16,3 +16,8 @@ Ces codes sources sont utilisables directement en les ouvrant dans google colab.
 Remerciement à: 
 - Krish Naik pour son tutoriel sur le fine tuning avec QLORA: https://colab.research.google.com/drive/1Bd7c5rioBOmtJbDEax83vAHEPru-r06l#scrollTo=OJXpOgBFuSrc
 - et à Shaw Talebi pour son tutoriel sur la méthode RAG: https://colab.research.google.com/drive/1peJukr-9E1zCo1iAalbgDPJmNMydvQms?usp=sharing#scrollTo=WWiBVBuOUm-G
+
+
+Auteurs:
+- Eric Moussinga / https://github.com/mousler
+- Pierre Giraud / https://github.com/Giraud-Pierre
